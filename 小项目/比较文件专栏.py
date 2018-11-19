@@ -31,4 +31,4 @@ def match_the_file(path1,path2):
 print(match_the_file('F:\python全栈开发12期_pycharm\Day24\京东','F:\python全栈开发12期_pycharm\Day25\京东'))#True
 
 
-print(1111)
+print(666)
