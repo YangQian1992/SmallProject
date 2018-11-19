@@ -29,6 +29,3 @@ def match_the_file(path1,path2):
     if str_f1_content == str_f2_content :return True
     else:return False
 print(match_the_file('F:\python全栈开发12期_pycharm\Day24\京东','F:\python全栈开发12期_pycharm\Day25\京东'))#True
-
-
-print(666)
